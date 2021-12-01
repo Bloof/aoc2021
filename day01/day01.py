@@ -36,6 +36,6 @@ with open("/Users/markus/Documents/Git/Python/2021/day01/day01.txt", "r") as fp:
         counter += 1
 
     result2 = calc_depths(part2)
-    print(result2)
+    print(result2) # Part 2
 
 
